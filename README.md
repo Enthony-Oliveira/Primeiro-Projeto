@@ -31,7 +31,7 @@ Esta é minha carta de apresentação pessoal como desenvolvedor Front-End, onde
 
 > Uma imagem do site publicado:
 
-![Screenshot do site](![image](https://github.com/user-attachments/assets/1f7b7583-9ee9-41db-b632-16941a6f5ec7)
+![Screenshot do site](https://imgur.com/a/gu3mAsY)
 )
 
 ---
@@ -44,8 +44,3 @@ Esta é minha carta de apresentação pessoal como desenvolvedor Front-End, onde
 💼 Desenvolvedor Front-End em formação  
  
 [🔗 LinkedIn](https://www.linkedin.com/in/enthony-oliveira-83570322b/)
----
-## 📝 Licença
-
-Este projeto está sob a licença MIT.  
-Sinta-se à vontade para utilizar ou modificar como quiser.
