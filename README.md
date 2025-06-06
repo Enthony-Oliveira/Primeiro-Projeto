@@ -31,7 +31,7 @@ Esta é minha carta de apresentação pessoal como desenvolvedor Front-End, onde
 
 > Uma imagem do site publicado:
 
-[image](https://github.com/user-attachments/assets/208557e2-b8e8-47f7-82c9-a5dd04370188)
+![image](https://github.com/user-attachments/assets/208557e2-b8e8-47f7-82c9-a5dd04370188)
 
 
 ---
