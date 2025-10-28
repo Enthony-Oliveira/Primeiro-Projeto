@@ -40,7 +40,7 @@ Esta é minha carta de apresentação pessoal como desenvolvedor Front-End, onde
 
 **Enthony Oliveira**  
 📍 Cascavel - PR  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas  
 💼 Desenvolvedor Front-End em formação  
  
 [🔗 LinkedIn](https://www.linkedin.com/in/enthony-oliveira-83570322b/)
